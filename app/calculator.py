@@ -1,10 +1,10 @@
 class Calculator:
 
     def add(x, y):
-        return x + y
+        return x + y - x
 
     def subtract(x, y):
-        return x - y
+        return x - y - x
 
     def multiply(x, y):
         return x * y
